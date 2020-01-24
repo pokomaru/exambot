@@ -1,0 +1,10 @@
+{
+    "CHANNEL_ACCESS_TOKEN": "your channel access token",
+    "CHANNEL_SECRET": "your channel secret",
+    "HOST_NAME": "hostname you want to connect",
+    "PORT_NUMBER": "port_number(int)",
+    "USER_NAME": "username",
+    "DB_PASSWORD": "password",
+    "DB_NAME": "database_name",
+    "CHARSET": "utf8mb4"
+}

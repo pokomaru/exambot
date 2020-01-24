@@ -1,0 +1,12 @@
+{
+    "ON_FOLLOW": "\"INFO: Followed successfully\" ",
+    "UN_FOLLOW": "\"INFO: Unfollowed successfully\" ",
+    "ERROR_FOLLOW": "\"ERROR: Failed to follow\" ",
+    "ERROR_UN_FOLLOW": "\"ERROR: Failed to unfollow\" ",
+    "JOIN_GROUP": "\"INFO: Joined successfully\" ",
+    "LEAVE_GROUP": "\"INFO: Leave group  successfully\" ",
+    "ERROR_JOIN": "\"ERROR: Failed to join\" ",
+    "ERROR_LEAVE": "\"ERROR: Failed to leave\" ",
+    "MESSAGE": "\"INFO: Message sent successfully\" ",
+    "ERROR_MESSAGE": "\"ERROR: Failed to send message\" "
+}
