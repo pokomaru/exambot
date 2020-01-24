@@ -4,7 +4,7 @@ This is a linebot which notice the number of days until high school entrance exa
 ## Description
 This linebot notice the number of days until high school entrance exam in Fukushima every morning.
 If you are home tutor, you will want to check an assignment every nignt.
-This encourages your student to study in order to be noticed by this linebot at 21:00 and 23:59.
+Noticed by this linebot, it will be improved study efficiency.
 
 ## Requirement
 Python >= 3.5
