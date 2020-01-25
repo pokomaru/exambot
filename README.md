@@ -6,7 +6,8 @@ This linebot notice the number of days until high school entrance exam in Fukush
 Noticed by this linebot, it will be improved study efficiency.
 
 ## Requirement
-Python >= 3.5
+- Python >= 3.5
+- Flask==1.1.1
 
 ## Installation
 Paste the following command at a Terminal prompt.
