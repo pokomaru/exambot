@@ -2,7 +2,6 @@ import datetime
 import json
 import logging
 import os
-import sys
 
 from apscheduler.schedulers.blocking import BlockingScheduler
 from flask import Flask, request, abort
