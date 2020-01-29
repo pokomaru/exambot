@@ -1,9 +1,9 @@
 # exambot
-This is a linebot which notices the number of days until high school entrance exam in Fukushima.
+This is a linebot which notifies the number of days until high school entrance exam in Fukushima.
 
 ## Description
-This linebot notices the number of days until high school entrance exam in Fukushima every morning.
-Noticed by this, your learning efficiency will be improved.
+This linebot notifies the number of days until high school entrance exam in Fukushima every morning.
+Notified by this, your learning efficiency will be improved.
 
 ## Requirement
 - Python >= 3.5
