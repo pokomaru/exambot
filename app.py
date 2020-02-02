@@ -8,13 +8,19 @@ from flask import Flask, request, abort
 from function import Function
 from getdays import Getdays
 
+from linebot.exceptions import (
+    InvalidSignatureError
+    )
+
+from linebot import (
+    LineBotApi, WebhookHandler
+    )
+
 from linebot.models import (
     FollowEvent, UnfollowEvent, JoinEvent, LeaveEvent, MessageEvent, TextMessage, TextSendMessage
 )
 
-from linebot import (
-    LineBotApi, WebhookHandler
-)
+
 
 app = Flask(__name__)
 
@@ -186,5 +192,5 @@ def send_day():
 
 
 if __name__ == "__main__":
-    sched.start()
+    # sched.start()
     app.run()
